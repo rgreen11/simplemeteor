@@ -1,2 +1,0 @@
-# simplemeteor
-Created with CodeSandbox
